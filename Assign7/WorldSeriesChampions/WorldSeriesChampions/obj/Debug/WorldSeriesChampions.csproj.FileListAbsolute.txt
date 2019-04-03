@@ -1,0 +1,10 @@
+C:\Users\thena\Documents\School\Sp19\OMIS 449\Assign7\WorldSeriesChampions\WorldSeriesChampions\bin\Debug\WorldSeriesChampions.exe.config
+C:\Users\thena\Documents\School\Sp19\OMIS 449\Assign7\WorldSeriesChampions\WorldSeriesChampions\bin\Debug\WorldSeriesChampions.exe
+C:\Users\thena\Documents\School\Sp19\OMIS 449\Assign7\WorldSeriesChampions\WorldSeriesChampions\bin\Debug\WorldSeriesChampions.pdb
+C:\Users\thena\Documents\School\Sp19\OMIS 449\Assign7\WorldSeriesChampions\WorldSeriesChampions\obj\Debug\WorldSeriesChampions.csprojAssemblyReference.cache
+C:\Users\thena\Documents\School\Sp19\OMIS 449\Assign7\WorldSeriesChampions\WorldSeriesChampions\obj\Debug\WorldSeriesChampions.WSCForm.resources
+C:\Users\thena\Documents\School\Sp19\OMIS 449\Assign7\WorldSeriesChampions\WorldSeriesChampions\obj\Debug\WorldSeriesChampions.Properties.Resources.resources
+C:\Users\thena\Documents\School\Sp19\OMIS 449\Assign7\WorldSeriesChampions\WorldSeriesChampions\obj\Debug\WorldSeriesChampions.csproj.GenerateResource.cache
+C:\Users\thena\Documents\School\Sp19\OMIS 449\Assign7\WorldSeriesChampions\WorldSeriesChampions\obj\Debug\WorldSeriesChampions.csproj.CoreCompileInputs.cache
+C:\Users\thena\Documents\School\Sp19\OMIS 449\Assign7\WorldSeriesChampions\WorldSeriesChampions\obj\Debug\WorldSeriesChampions.exe
+C:\Users\thena\Documents\School\Sp19\OMIS 449\Assign7\WorldSeriesChampions\WorldSeriesChampions\obj\Debug\WorldSeriesChampions.pdb
