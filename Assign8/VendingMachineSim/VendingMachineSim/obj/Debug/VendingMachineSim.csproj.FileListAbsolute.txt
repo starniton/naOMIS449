@@ -1,0 +1,10 @@
+E:\School\SP19\OMIS 449\Assign8\VendingMachineSim\VendingMachineSim\bin\Debug\VendingMachineSim.exe.config
+E:\School\SP19\OMIS 449\Assign8\VendingMachineSim\VendingMachineSim\bin\Debug\VendingMachineSim.exe
+E:\School\SP19\OMIS 449\Assign8\VendingMachineSim\VendingMachineSim\bin\Debug\VendingMachineSim.pdb
+E:\School\SP19\OMIS 449\Assign8\VendingMachineSim\VendingMachineSim\obj\Debug\VendingMachineSim.csprojAssemblyReference.cache
+E:\School\SP19\OMIS 449\Assign8\VendingMachineSim\VendingMachineSim\obj\Debug\VendingMachineSim.Properties.Resources.resources
+E:\School\SP19\OMIS 449\Assign8\VendingMachineSim\VendingMachineSim\obj\Debug\VendingMachineSim.csproj.GenerateResource.cache
+E:\School\SP19\OMIS 449\Assign8\VendingMachineSim\VendingMachineSim\obj\Debug\VendingMachineSim.csproj.CoreCompileInputs.cache
+E:\School\SP19\OMIS 449\Assign8\VendingMachineSim\VendingMachineSim\obj\Debug\VendingMachineSim.exe
+E:\School\SP19\OMIS 449\Assign8\VendingMachineSim\VendingMachineSim\obj\Debug\VendingMachineSim.pdb
+E:\School\SP19\OMIS 449\Assign8\VendingMachineSim\VendingMachineSim\obj\Debug\VendingMachineSim.VendingMachine.resources
